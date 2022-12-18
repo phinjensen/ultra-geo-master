@@ -1,0 +1,2616 @@
+[
+  {
+    "name": {
+      "common": "United States",
+      "official": "United States of America",
+      "nativeName": {
+        "eng": {
+          "official": "United States of America",
+          "common": "United States"
+        }
+      }
+    },
+    "tld": [".us"],
+    "cca2": "US",
+    "ccn3": "840",
+    "cca3": "USA",
+    "cioc": "USA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": { "USD": { "name": "United States dollar", "symbol": "$" } },
+    "idd": {
+      "root": "+1",
+      "suffixes": [
+        "201",
+        "202",
+        "203",
+        "205",
+        "206",
+        "207",
+        "208",
+        "209",
+        "210",
+        "212",
+        "213",
+        "214",
+        "215",
+        "216",
+        "217",
+        "218",
+        "219",
+        "220",
+        "224",
+        "225",
+        "227",
+        "228",
+        "229",
+        "231",
+        "234",
+        "239",
+        "240",
+        "248",
+        "251",
+        "252",
+        "253",
+        "254",
+        "256",
+        "260",
+        "262",
+        "267",
+        "269",
+        "270",
+        "272",
+        "274",
+        "276",
+        "281",
+        "283",
+        "301",
+        "302",
+        "303",
+        "304",
+        "305",
+        "307",
+        "308",
+        "309",
+        "310",
+        "312",
+        "313",
+        "314",
+        "315",
+        "316",
+        "317",
+        "318",
+        "319",
+        "320",
+        "321",
+        "323",
+        "325",
+        "327",
+        "330",
+        "331",
+        "334",
+        "336",
+        "337",
+        "339",
+        "346",
+        "347",
+        "351",
+        "352",
+        "360",
+        "361",
+        "364",
+        "380",
+        "385",
+        "386",
+        "401",
+        "402",
+        "404",
+        "405",
+        "406",
+        "407",
+        "408",
+        "409",
+        "410",
+        "412",
+        "413",
+        "414",
+        "415",
+        "417",
+        "419",
+        "423",
+        "424",
+        "425",
+        "430",
+        "432",
+        "434",
+        "435",
+        "440",
+        "442",
+        "443",
+        "447",
+        "458",
+        "463",
+        "464",
+        "469",
+        "470",
+        "475",
+        "478",
+        "479",
+        "480",
+        "484",
+        "501",
+        "502",
+        "503",
+        "504",
+        "505",
+        "507",
+        "508",
+        "509",
+        "510",
+        "512",
+        "513",
+        "515",
+        "516",
+        "517",
+        "518",
+        "520",
+        "530",
+        "531",
+        "534",
+        "539",
+        "540",
+        "541",
+        "551",
+        "559",
+        "561",
+        "562",
+        "563",
+        "564",
+        "567",
+        "570",
+        "571",
+        "573",
+        "574",
+        "575",
+        "580",
+        "585",
+        "586",
+        "601",
+        "602",
+        "603",
+        "605",
+        "606",
+        "607",
+        "608",
+        "609",
+        "610",
+        "612",
+        "614",
+        "615",
+        "616",
+        "617",
+        "618",
+        "619",
+        "620",
+        "623",
+        "626",
+        "628",
+        "629",
+        "630",
+        "631",
+        "636",
+        "641",
+        "646",
+        "650",
+        "651",
+        "657",
+        "660",
+        "661",
+        "662",
+        "667",
+        "669",
+        "678",
+        "681",
+        "682",
+        "701",
+        "702",
+        "703",
+        "704",
+        "706",
+        "707",
+        "708",
+        "712",
+        "713",
+        "714",
+        "715",
+        "716",
+        "717",
+        "718",
+        "719",
+        "720",
+        "724",
+        "725",
+        "727",
+        "730",
+        "731",
+        "732",
+        "734",
+        "737",
+        "740",
+        "743",
+        "747",
+        "754",
+        "757",
+        "760",
+        "762",
+        "763",
+        "765",
+        "769",
+        "770",
+        "772",
+        "773",
+        "774",
+        "775",
+        "779",
+        "781",
+        "785",
+        "786",
+        "801",
+        "802",
+        "803",
+        "804",
+        "805",
+        "806",
+        "808",
+        "810",
+        "812",
+        "813",
+        "814",
+        "815",
+        "816",
+        "817",
+        "818",
+        "828",
+        "830",
+        "831",
+        "832",
+        "843",
+        "845",
+        "847",
+        "848",
+        "850",
+        "854",
+        "856",
+        "857",
+        "858",
+        "859",
+        "860",
+        "862",
+        "863",
+        "864",
+        "865",
+        "870",
+        "872",
+        "878",
+        "901",
+        "903",
+        "904",
+        "906",
+        "907",
+        "908",
+        "909",
+        "910",
+        "912",
+        "913",
+        "914",
+        "915",
+        "916",
+        "917",
+        "918",
+        "919",
+        "920",
+        "925",
+        "928",
+        "929",
+        "930",
+        "931",
+        "934",
+        "936",
+        "937",
+        "938",
+        "940",
+        "941",
+        "947",
+        "949",
+        "951",
+        "952",
+        "954",
+        "956",
+        "959",
+        "970",
+        "971",
+        "972",
+        "973",
+        "975",
+        "978",
+        "979",
+        "980",
+        "984",
+        "985",
+        "989"
+      ]
+    },
+    "capital": ["Washington, D.C."],
+    "altSpellings": ["US", "USA", "United States of America"],
+    "region": "Americas",
+    "subregion": "North America",
+    "languages": { "eng": "English" },
+    "translations": {
+      "ara": {
+        "official": "الولايات المتحدة الامريكية",
+        "common": "الولايات المتحدة"
+      },
+      "bre": { "official": "Stadoù-Unanet Amerika", "common": "Stadoù-Unanet" },
+      "ces": {
+        "official": "Spojené státy americké",
+        "common": "Spojené státy"
+      },
+      "cym": {
+        "official": "United States of America",
+        "common": "United States"
+      },
+      "deu": {
+        "official": "Vereinigte Staaten von Amerika",
+        "common": "Vereinigte Staaten"
+      },
+      "est": {
+        "official": "Ameerika Ühendriigid",
+        "common": "Ameerika Ühendriigid"
+      },
+      "fin": { "official": "Amerikan yhdysvallat", "common": "Yhdysvallat" },
+      "fra": {
+        "official": "Les états-unis d'Amérique",
+        "common": "États-Unis"
+      },
+      "hrv": {
+        "official": "Sjedinjene Države Amerike",
+        "common": "Sjedinjene Američke Države"
+      },
+      "hun": {
+        "official": "Amerikai Egyesült Államok",
+        "common": "Amerikai Egyesült Államok"
+      },
+      "ita": {
+        "official": "Stati Uniti d'America",
+        "common": "Stati Uniti d'America"
+      },
+      "jpn": { "official": "アメリカ合衆国", "common": "アメリカ合衆国" },
+      "kor": { "official": "아메리카 합중국", "common": "미국" },
+      "nld": {
+        "official": "Verenigde Staten van Amerika",
+        "common": "Verenigde Staten"
+      },
+      "per": {
+        "official": "ایالات متحده آمریکا",
+        "common": "ایالات متحده آمریکا"
+      },
+      "pol": {
+        "official": "Stany Zjednoczone Ameryki",
+        "common": "Stany Zjednoczone"
+      },
+      "por": {
+        "official": "Estados Unidos da América",
+        "common": "Estados Unidos"
+      },
+      "rus": {
+        "official": "Соединенные Штаты Америки",
+        "common": "Соединённые Штаты Америки"
+      },
+      "slk": {
+        "official": "Spojené štáty Americké",
+        "common": "Spojené štáty americké"
+      },
+      "spa": {
+        "official": "Estados Unidos de América",
+        "common": "Estados Unidos"
+      },
+      "swe": { "official": "Amerikas förenta stater", "common": "USA" },
+      "tur": {
+        "official": "Amerika Birleşik Devletleri",
+        "common": "Amerika Birleşik Devletleri"
+      },
+      "urd": {
+        "official": "ریاستہائے متحدہ امریکا",
+        "common": "ریاستہائے متحدہ"
+      },
+      "zho": { "official": "美利坚合众国", "common": "美国" }
+    },
+    "latlng": [38, -97],
+    "landlocked": false,
+    "borders": ["CAN", "MEX"],
+    "area": 9372610,
+    "demonyms": {
+      "eng": { "f": "American", "m": "American" },
+      "fra": { "f": "Américaine", "m": "Américain" }
+    },
+    "flag": "🇺🇸",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/e8M246zY4BSjkjAv6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/148838#map=2/20.6/-85.8"
+    },
+    "population": 329484123,
+    "gini": { "2018": 41.4 },
+    "fifa": "USA",
+    "car": { "signs": ["USA"], "side": "right" },
+    "timezones": [
+      "UTC-12:00",
+      "UTC-11:00",
+      "UTC-10:00",
+      "UTC-09:00",
+      "UTC-08:00",
+      "UTC-07:00",
+      "UTC-06:00",
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC+10:00",
+      "UTC+12:00"
+    ],
+    "continents": ["North America"],
+    "flags": {
+      "png": "https://flagcdn.com/w320/us.png",
+      "svg": "https://flagcdn.com/us.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/us.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/us.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": { "latlng": [38.89, -77.05] },
+    "postalCode": { "format": "#####-####", "regex": "^\\d{5}(-\\d{4})?$" }
+  },
+  {
+    "name": {
+      "common": "Trinidad and Tobago",
+      "official": "Republic of Trinidad and Tobago",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Trinidad and Tobago",
+          "common": "Trinidad and Tobago"
+        }
+      }
+    },
+    "tld": [".tt"],
+    "cca2": "TT",
+    "ccn3": "780",
+    "cca3": "TTO",
+    "cioc": "TTO",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "TTD": { "name": "Trinidad and Tobago dollar", "symbol": "$" }
+    },
+    "idd": { "root": "+1", "suffixes": ["868"] },
+    "capital": ["Port of Spain"],
+    "altSpellings": ["TT", "Republic of Trinidad and Tobago"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": { "eng": "English" },
+    "translations": {
+      "ara": {
+        "official": "جمهورية ترينيداد وتوباغو",
+        "common": "ترينيداد وتوباغو"
+      },
+      "bre": {
+        "official": "Republik Trinidad ha Tobago",
+        "common": "Trinidad ha Tobago"
+      },
+      "ces": {
+        "official": "Republika Trinidad a Tobago",
+        "common": "Trinidad a Tobago"
+      },
+      "cym": {
+        "official": "Republic of Trinidad and Tobago",
+        "common": "Trinidad and Tobago"
+      },
+      "deu": {
+        "official": "Republik Trinidad und Tobago",
+        "common": "Trinidad und Tobago"
+      },
+      "est": {
+        "official": "Trinidadi ja Tobago Vabariik",
+        "common": "Trinidad ja Tobago"
+      },
+      "fin": {
+        "official": "Trinidadin ja Tobagon tasavalta",
+        "common": "Trinidad ja Tobago"
+      },
+      "fra": {
+        "official": "République de Trinité-et-Tobago",
+        "common": "Trinité-et-Tobago"
+      },
+      "hrv": {
+        "official": "Republika Trinidad i Tobago",
+        "common": "Trinidad i Tobago"
+      },
+      "hun": {
+        "official": "Trinidad és Tobago Köztársaság",
+        "common": "Trinidad és Tobago"
+      },
+      "ita": {
+        "official": "Repubblica di Trinidad e Tobago",
+        "common": "Trinidad e Tobago"
+      },
+      "jpn": {
+        "official": "トリニダード·トバゴ共和国",
+        "common": "トリニダード・トバゴ"
+      },
+      "kor": {
+        "official": "트리니다드 토바고 공화국",
+        "common": "트리니다드 토바고"
+      },
+      "nld": {
+        "official": "Republiek Trinidad en Tobago",
+        "common": "Trinidad en Tobago"
+      },
+      "per": {
+        "official": "جمهوری ترینیداد و توباگو",
+        "common": "ترینیداد و توباگو"
+      },
+      "pol": { "official": "Trynidad i Tobago", "common": "Trynidad i Tobago" },
+      "por": {
+        "official": "República de Trinidad e Tobago",
+        "common": "Trinidade e Tobago"
+      },
+      "rus": {
+        "official": "Республика Тринидад и Тобаго",
+        "common": "Тринидад и Тобаго"
+      },
+      "slk": {
+        "official": "Republika Trinidad a Tobaga",
+        "common": "Trinidad a Tobago"
+      },
+      "spa": {
+        "official": "República de Trinidad y Tobago",
+        "common": "Trinidad y Tobago"
+      },
+      "swe": {
+        "official": "Republiken Trinidad och Tobago",
+        "common": "Trinidad och Tobago"
+      },
+      "tur": {
+        "official": "Trinidad ve Tobago",
+        "common": "Trinidad ve Tobago"
+      },
+      "urd": {
+        "official": "جمہوریہ ٹرینیڈاڈ و ٹوباگو",
+        "common": "ٹرینیڈاڈ و ٹوباگو"
+      },
+      "zho": {
+        "official": "特立尼达和多巴哥共和国",
+        "common": "特立尼达和多巴哥"
+      }
+    },
+    "latlng": [10.6918, 61.2225],
+    "landlocked": false,
+    "area": 5130,
+    "demonyms": {
+      "eng": { "f": "Trinidadian", "m": "Trinidadian" },
+      "fra": { "f": "Trinidadienne", "m": "Trinidadien" }
+    },
+    "flag": "🇹🇹",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/NrRfDEWoG8FGZqWY7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/555717"
+    },
+    "population": 1399491,
+    "gini": { "1992": 40.3 },
+    "fifa": "TRI",
+    "car": { "signs": ["TT"], "side": "left" },
+    "timezones": ["UTC-04:00"],
+    "continents": ["North America"],
+    "flags": {
+      "png": "https://flagcdn.com/w320/tt.png",
+      "svg": "https://flagcdn.com/tt.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/tt.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/tt.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": { "latlng": [10.65, -61.52] }
+  },
+  {
+    "name": {
+      "common": "Saint Vincent and the Grenadines",
+      "official": "Saint Vincent and the Grenadines",
+      "nativeName": {
+        "eng": {
+          "official": "Saint Vincent and the Grenadines",
+          "common": "Saint Vincent and the Grenadines"
+        }
+      }
+    },
+    "tld": [".vc"],
+    "cca2": "VC",
+    "ccn3": "670",
+    "cca3": "VCT",
+    "cioc": "VIN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "XCD": { "name": "Eastern Caribbean dollar", "symbol": "$" }
+    },
+    "idd": { "root": "+1", "suffixes": ["784"] },
+    "capital": ["Kingstown"],
+    "altSpellings": ["VC"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": { "eng": "English" },
+    "translations": {
+      "ara": {
+        "official": "سانت فينسنت والغرينادين",
+        "common": "سانت فينسنت والغرينادين"
+      },
+      "bre": {
+        "official": "Sant-Visant hag ar Grenadinez",
+        "common": "Sant-Visant hag ar Grenadinez"
+      },
+      "ces": {
+        "official": "Svatý Vincenc a Grenadiny",
+        "common": "Svatý Vincenc a Grenadiny"
+      },
+      "cym": {
+        "official": "Saint Vincent and the Grenadines",
+        "common": "Saint Vincent and the Grenadines"
+      },
+      "deu": {
+        "official": "St. Vincent und die Grenadinen",
+        "common": "St. Vincent und die Grenadinen"
+      },
+      "est": {
+        "official": "Saint Vincent ja Grenadiinid",
+        "common": "Saint Vincent"
+      },
+      "fin": {
+        "official": "Saint Vincent ja Grenadiinit",
+        "common": "Saint Vincent ja Grenadiinit"
+      },
+      "fra": {
+        "official": "Saint-Vincent-et-les Grenadines",
+        "common": "Saint-Vincent-et-les-Grenadines"
+      },
+      "hrv": {
+        "official": "Sveti Vincent i Grenadini",
+        "common": "Sveti Vincent i Grenadini"
+      },
+      "hun": {
+        "official": "Saint Vincent és a Grenadine-szigetek",
+        "common": "Saint Vincent és a Grenadine-szigetek"
+      },
+      "ita": {
+        "official": "Saint Vincent e Grenadine",
+        "common": "Saint Vincent e Grenadine"
+      },
+      "jpn": {
+        "official": "セントビンセントおよびグレナディーン諸島",
+        "common": "セントビンセントおよびグレナディーン諸島"
+      },
+      "kor": {
+        "official": "세인트빈센트 그레나딘",
+        "common": "세인트빈센트 그레나딘"
+      },
+      "nld": {
+        "official": "Saint Vincent en de Grenadines",
+        "common": "Saint Vincent en de Grenadines"
+      },
+      "per": {
+        "official": "سنت وینسنت و گرنادین‌ها",
+        "common": "سنت وینسنت و گرنادین‌ها"
+      },
+      "pol": {
+        "official": "Saint Vincent i Grenadyny",
+        "common": "Saint Vincent i Grenadyny"
+      },
+      "por": {
+        "official": "São Vicente e Granadinas",
+        "common": "São Vincente e Granadinas"
+      },
+      "rus": {
+        "official": "Сент-Винсент и Гренадины",
+        "common": "Сент-Винсент и Гренадины"
+      },
+      "slk": {
+        "official": "Svätý Vincent a Grenadíny",
+        "common": "Svätý Vincent a Grenadíny"
+      },
+      "spa": {
+        "official": "San Vicente y las Granadinas",
+        "common": "San Vicente y Granadinas"
+      },
+      "swe": {
+        "official": "Saint Vincent och Grenadinerna",
+        "common": "Saint Vincent och Grenadinerna"
+      },
+      "tur": {
+        "official": "Saint Vincent ve Grenadinler",
+        "common": "Saint Vincent ve Grenadinler"
+      },
+      "urd": {
+        "official": "سینٹ وینسینٹ و گریناڈائنز",
+        "common": "سینٹ وینسینٹ و گریناڈائنز"
+      },
+      "zho": {
+        "official": "圣文森特和格林纳丁斯",
+        "common": "圣文森特和格林纳丁斯"
+      }
+    },
+    "latlng": [13.25, -61.2],
+    "landlocked": false,
+    "area": 389,
+    "demonyms": {
+      "eng": { "f": "Saint Vincentian", "m": "Saint Vincentian" },
+      "fra": { "f": "Vincentaise", "m": "Vincentais" }
+    },
+    "flag": "🇻🇨",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/wMbnMqjG37FMnrwf7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/550725"
+    },
+    "population": 110947,
+    "fifa": "VIN",
+    "car": { "signs": ["WV"], "side": "left" },
+    "timezones": ["UTC-04:00"],
+    "continents": ["North America"],
+    "flags": {
+      "png": "https://flagcdn.com/w320/vc.png",
+      "svg": "https://flagcdn.com/vc.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/vc.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/vc.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": { "latlng": [13.13, -61.22] }
+  },
+  {
+    "name": {
+      "common": "Saint Lucia",
+      "official": "Saint Lucia",
+      "nativeName": {
+        "eng": { "official": "Saint Lucia", "common": "Saint Lucia" }
+      }
+    },
+    "tld": [".lc"],
+    "cca2": "LC",
+    "ccn3": "662",
+    "cca3": "LCA",
+    "cioc": "LCA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "XCD": { "name": "Eastern Caribbean dollar", "symbol": "$" }
+    },
+    "idd": { "root": "+1", "suffixes": ["758"] },
+    "capital": ["Castries"],
+    "altSpellings": ["LC"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": { "eng": "English" },
+    "translations": {
+      "ara": { "official": "سانت لوسيا", "common": "سانت لوسيا" },
+      "bre": { "official": "Santez-Lusia", "common": "Santez-Lusia" },
+      "ces": { "official": "Svatá Lucie", "common": "Svatá Lucie" },
+      "cym": { "official": "Saint Lucia", "common": "Saint Lucia" },
+      "deu": { "official": "St. Lucia", "common": "St. Lucia" },
+      "est": { "official": "Saint Lucia", "common": "Saint Lucia" },
+      "fin": { "official": "Saint Lucia", "common": "Saint Lucia" },
+      "fra": { "official": "Sainte-Lucie", "common": "Sainte-Lucie" },
+      "hrv": { "official": "Sveta Lucija", "common": "Sveta Lucija" },
+      "hun": { "official": "Saint Lucia", "common": "Saint Lucia" },
+      "ita": { "official": "Santa Lucia", "common": "Santa Lucia" },
+      "jpn": { "official": "セントルシア", "common": "セントルシア" },
+      "kor": { "official": "세인트루시아", "common": "세인트루시아" },
+      "nld": { "official": "Saint Lucia", "common": "Saint Lucia" },
+      "per": { "official": "سنت لوسیا", "common": "سنت لوسیا" },
+      "pol": { "official": "Saint Lucia", "common": "Saint Lucia" },
+      "por": { "official": "Santa Lúcia", "common": "Santa Lúcia" },
+      "rus": { "official": "Сент-Люсия", "common": "Сент-Люсия" },
+      "slk": { "official": "Svätá Lucia", "common": "Svätá Lucia" },
+      "spa": { "official": "Santa Lucía", "common": "Santa Lucía" },
+      "swe": { "official": "Saint Lucia", "common": "Saint Lucia" },
+      "tur": { "official": "Saint Lucia", "common": "Saint Lucia" },
+      "urd": { "official": "سینٹ لوسیا", "common": "سینٹ لوسیا" },
+      "zho": { "official": "圣卢西亚", "common": "圣卢西亚" }
+    },
+    "latlng": [13.88333333, -60.96666666],
+    "landlocked": false,
+    "area": 616,
+    "demonyms": {
+      "eng": { "f": "Saint Lucian", "m": "Saint Lucian" },
+      "fra": { "f": "Saint-Lucienne", "m": "Saint-Lucien" }
+    },
+    "flag": "🇱🇨",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/4HhJ2jkPdSL9BPRcA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/550728"
+    },
+    "population": 183629,
+    "gini": { "2016": 51.2 },
+    "fifa": "LCA",
+    "car": { "signs": ["WL"], "side": "left" },
+    "timezones": ["UTC-04:00"],
+    "continents": ["North America"],
+    "flags": {
+      "png": "https://flagcdn.com/w320/lc.png",
+      "svg": "https://flagcdn.com/lc.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/lc.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/lc.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": { "latlng": [14, -61] }
+  },
+  {
+    "name": {
+      "common": "Saint Kitts and Nevis",
+      "official": "Federation of Saint Christopher and Nevis",
+      "nativeName": {
+        "eng": {
+          "official": "Federation of Saint Christopher and Nevis",
+          "common": "Saint Kitts and Nevis"
+        }
+      }
+    },
+    "tld": [".kn"],
+    "cca2": "KN",
+    "ccn3": "659",
+    "cca3": "KNA",
+    "cioc": "SKN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "XCD": { "name": "Eastern Caribbean dollar", "symbol": "$" }
+    },
+    "idd": { "root": "+1", "suffixes": ["869"] },
+    "capital": ["Basseterre"],
+    "altSpellings": ["KN", "Federation of Saint Christopher and Nevis"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": { "eng": "English" },
+    "translations": {
+      "ara": {
+        "official": "اتحاد القديس كريستوفر ونيفيس",
+        "common": "سانت كيتس ونيفيس"
+      },
+      "bre": {
+        "official": "Kevread Saint Kitts ha Nevis",
+        "common": "Saint Kitts ha Nevis"
+      },
+      "ces": {
+        "official": "Federace Sv. Kryštof a Nevis",
+        "common": "Svatý Kryštof a Nevis"
+      },
+      "cym": {
+        "official": "Federation of Saint Christopher and Nevis",
+        "common": "Saint Kitts and Nevis"
+      },
+      "deu": {
+        "official": "Föderation von St. Kitts und Nevis",
+        "common": "St. Kitts und Nevis"
+      },
+      "est": {
+        "official": "Saint Kittsi ja Nevise Föderatsioon",
+        "common": "Saint Kitts ja Nevis"
+      },
+      "fin": {
+        "official": "Saint Christopherin ja Nevisin federaatio",
+        "common": "Saint Kitts ja Nevis"
+      },
+      "fra": {
+        "official": "Fédération de Saint-Christophe-et-Niévès",
+        "common": "Saint-Christophe-et-Niévès"
+      },
+      "hrv": {
+        "official": "Federacija Sv.Kristofora i Nevisa",
+        "common": "Sveti Kristof i Nevis"
+      },
+      "hun": {
+        "official": "Saint Christopher és Nevis Államszövetség",
+        "common": "Saint Kitts és Nevis"
+      },
+      "ita": {
+        "official": "Federazione di Saint Christopher e Nevis",
+        "common": "Saint Kitts e Nevis"
+      },
+      "jpn": {
+        "official": "セントクリストファーNevis連盟",
+        "common": "セントクリストファー・ネイビス"
+      },
+      "kor": {
+        "official": "세인트키츠 네비스 연방",
+        "common": "세인트키츠 네비스"
+      },
+      "nld": {
+        "official": "Federatie van Saint Kitts en Nevis",
+        "common": "Saint Kitts en Nevis"
+      },
+      "per": {
+        "official": "فدراسیون سنت کیتس و نویس",
+        "common": "سنت کیتس و نویس"
+      },
+      "pol": {
+        "official": "Federacja Saint Kitts i Nevis",
+        "common": "Saint Kitts i Nevis"
+      },
+      "por": {
+        "official": "Federação de São Cristóvão e Nevis",
+        "common": "São Cristóvão e Nevis"
+      },
+      "rus": {
+        "official": "Федерация Сент-Кристофер и Н е в и с",
+        "common": "Сент-Китс и Невис"
+      },
+      "slk": {
+        "official": "Feder໡cia Svätého Krištofa a Nevisu",
+        "common": "Svätý Krištof a Nevis"
+      },
+      "spa": {
+        "official": "Federación de San Cristóbal y Nevis",
+        "common": "San Cristóbal y Nieves"
+      },
+      "swe": {
+        "official": "Federationen Saint Kitts och Nevis",
+        "common": "Saint Kitts och Nevis"
+      },
+      "tur": {
+        "official": "Saint Kitts ve Nevis Federasyonu",
+        "common": "Saint Kitts ve Nevis"
+      },
+      "urd": {
+        "official": "وفاقِ سینٹ کیٹز و ناویس",
+        "common": "سینٹ کیٹز و ناویس"
+      },
+      "zho": {
+        "official": "圣克里斯托弗和尼维斯联邦",
+        "common": "圣基茨和尼维斯"
+      }
+    },
+    "latlng": [17.33333333, -62.75],
+    "landlocked": false,
+    "area": 261,
+    "demonyms": {
+      "eng": { "f": "Kittitian or Nevisian", "m": "Kittitian or Nevisian" },
+      "fra": { "f": "Kittitienne-et-nevicienne", "m": "Kittitien-et-nevicien" }
+    },
+    "flag": "🇰🇳",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/qiaVwcLVTXX3eoTNA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/536899"
+    },
+    "population": 53192,
+    "fifa": "SKN",
+    "car": { "signs": ["KN"], "side": "left" },
+    "timezones": ["UTC-04:00"],
+    "continents": ["North America"],
+    "flags": {
+      "png": "https://flagcdn.com/w320/kn.png",
+      "svg": "https://flagcdn.com/kn.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/kn.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/kn.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": { "latlng": [17.3, -62.72] }
+  },
+  {
+    "name": {
+      "common": "Panama",
+      "official": "Republic of Panama",
+      "nativeName": {
+        "spa": { "official": "República de Panamá", "common": "Panamá" }
+      }
+    },
+    "tld": [".pa"],
+    "cca2": "PA",
+    "ccn3": "591",
+    "cca3": "PAN",
+    "cioc": "PAN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "PAB": { "name": "Panamanian balboa", "symbol": "B/." },
+      "USD": { "name": "United States dollar", "symbol": "$" }
+    },
+    "idd": { "root": "+5", "suffixes": ["07"] },
+    "capital": ["Panama City"],
+    "altSpellings": ["PA", "Republic of Panama", "República de Panamá"],
+    "region": "Americas",
+    "subregion": "Central America",
+    "languages": { "spa": "Spanish" },
+    "translations": {
+      "ara": { "official": "جمهورية بنما", "common": "بنما" },
+      "bre": { "official": "Republik Panama", "common": "Panama" },
+      "ces": { "official": "Panamská republika", "common": "Panama" },
+      "cym": { "official": "Republic of Panama", "common": "Panama" },
+      "deu": { "official": "Republik Panama", "common": "Panama" },
+      "est": { "official": "Panama Vabariik", "common": "Panama" },
+      "fin": { "official": "Panaman tasavalta", "common": "Panama" },
+      "fra": { "official": "République du Panama", "common": "Panama" },
+      "hrv": { "official": "Republika Panama", "common": "Panama" },
+      "hun": { "official": "Panamai Köztársaság", "common": "Panama" },
+      "ita": { "official": "Repubblica di Panama", "common": "Panama" },
+      "jpn": { "official": "パナマ共和国", "common": "パナマ" },
+      "kor": { "official": "파나마 공화국", "common": "파나마" },
+      "nld": { "official": "Republiek Panama", "common": "Panama" },
+      "per": { "official": "جمهوری پاناما", "common": "پاناما" },
+      "pol": { "official": "Republika Panamy", "common": "Panama" },
+      "por": { "official": "República do Panamá", "common": "Panamá" },
+      "rus": { "official": "Республика Панама", "common": "Панама" },
+      "slk": { "official": "Panamská republika", "common": "Panama" },
+      "spa": { "official": "República de Panamá", "common": "Panamá" },
+      "swe": { "official": "Republiken Panama", "common": "Panama" },
+      "tur": { "official": "Panama Cumhuriyeti", "common": "Panama" },
+      "urd": { "official": "جمہوریہ پاناما", "common": "پاناما" },
+      "zho": { "official": "巴拿马共和国", "common": "巴拿马" }
+    },
+    "latlng": [9, -80],
+    "landlocked": false,
+    "borders": ["COL", "CRI"],
+    "area": 75417,
+    "demonyms": {
+      "eng": { "f": "Panamanian", "m": "Panamanian" },
+      "fra": { "f": "Panaméenne", "m": "Panaméen" }
+    },
+    "flag": "🇵🇦",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/sEN7sKqeawa5oPNLA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/287668"
+    },
+    "population": 4314768,
+    "gini": { "2019": 49.8 },
+    "fifa": "PAN",
+    "car": { "signs": ["PA"], "side": "right" },
+    "timezones": ["UTC-05:00"],
+    "continents": ["North America"],
+    "flags": {
+      "png": "https://flagcdn.com/w320/pa.png",
+      "svg": "https://flagcdn.com/pa.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/pa.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/pa.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": { "latlng": [8.97, -79.53] }
+  },
+  {
+    "name": {
+      "common": "Nicaragua",
+      "official": "Republic of Nicaragua",
+      "nativeName": {
+        "spa": { "official": "República de Nicaragua", "common": "Nicaragua" }
+      }
+    },
+    "tld": [".ni"],
+    "cca2": "NI",
+    "ccn3": "558",
+    "cca3": "NIC",
+    "cioc": "NCA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": { "NIO": { "name": "Nicaraguan córdoba", "symbol": "C$" } },
+    "idd": { "root": "+5", "suffixes": ["05"] },
+    "capital": ["Managua"],
+    "altSpellings": ["NI", "Republic of Nicaragua", "República de Nicaragua"],
+    "region": "Americas",
+    "subregion": "Central America",
+    "languages": { "spa": "Spanish" },
+    "translations": {
+      "ara": { "official": "جمهورية نيكاراغوا", "common": "نيكاراغوا" },
+      "bre": { "official": "Republik Nicaragua", "common": "Nicaragua" },
+      "ces": { "official": "Republika Nikaragua", "common": "Nikaragua" },
+      "cym": { "official": "Republic of Nicaragua", "common": "Nicaragua" },
+      "deu": { "official": "Republik Nicaragua", "common": "Nicaragua" },
+      "est": { "official": "Nicaragua Vabariik", "common": "Nicaragua" },
+      "fin": { "official": "Nicaraguan tasavalta", "common": "Nicaragua" },
+      "fra": { "official": "République du Nicaragua", "common": "Nicaragua" },
+      "hrv": { "official": "Republika Nikaragva", "common": "Nikaragva" },
+      "hun": { "official": "Nicaraguai Köztársaság", "common": "Nicaragua" },
+      "ita": { "official": "Repubblica del Nicaragua", "common": "Nicaragua" },
+      "jpn": { "official": "ニカラグア共和国", "common": "ニカラグア" },
+      "kor": { "official": "니카라과 공화국", "common": "니카라과" },
+      "nld": { "official": "Republiek Nicaragua", "common": "Nicaragua" },
+      "per": { "official": "جمهوری نیکاراگوئه", "common": "نیکاراگوئه" },
+      "pol": { "official": "Republika Nikaragui", "common": "Nikaragua" },
+      "por": { "official": "República da Nicarágua", "common": "Nicarágua" },
+      "rus": { "official": "Республика Никарагуа", "common": "Никарагуа" },
+      "slk": { "official": "Nikaragujská republika", "common": "Nikaragua" },
+      "spa": { "official": "República de Nicaragua", "common": "Nicaragua" },
+      "swe": { "official": "Republiken Nicaragua", "common": "Nicaragua" },
+      "tur": { "official": "Nikaragua Cumhuriyeti", "common": "Nikaragua" },
+      "urd": { "official": "جمہوریہ نکاراگوا", "common": "نکاراگوا" },
+      "zho": { "official": "尼加拉瓜共和国", "common": "尼加拉瓜" }
+    },
+    "latlng": [13, -85],
+    "landlocked": false,
+    "borders": ["CRI", "HND"],
+    "area": 130373,
+    "demonyms": {
+      "eng": { "f": "Nicaraguan", "m": "Nicaraguan" },
+      "fra": { "f": "Nicaraguayenne", "m": "Nicaraguayen" }
+    },
+    "flag": "🇳🇮",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/P77LaEVkKJKXneRC6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/287666"
+    },
+    "population": 6624554,
+    "gini": { "2014": 46.2 },
+    "fifa": "NCA",
+    "car": { "signs": ["NIC"], "side": "right" },
+    "timezones": ["UTC-06:00"],
+    "continents": ["North America"],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ni.png",
+      "svg": "https://flagcdn.com/ni.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ni.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ni.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": { "latlng": [12.13, -86.25] },
+    "postalCode": { "format": "###-###-#", "regex": "^(\\d{7})$" }
+  },
+  {
+    "name": {
+      "common": "Mexico",
+      "official": "United Mexican States",
+      "nativeName": {
+        "spa": { "official": "Estados Unidos Mexicanos", "common": "México" }
+      }
+    },
+    "tld": [".mx"],
+    "cca2": "MX",
+    "ccn3": "484",
+    "cca3": "MEX",
+    "cioc": "MEX",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": { "MXN": { "name": "Mexican peso", "symbol": "$" } },
+    "idd": { "root": "+5", "suffixes": ["2"] },
+    "capital": ["Mexico City"],
+    "altSpellings": [
+      "MX",
+      "Mexicanos",
+      "United Mexican States",
+      "Estados Unidos Mexicanos"
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "languages": { "spa": "Spanish" },
+    "translations": {
+      "ara": { "official": "الولايات المتحدة المكسيكية", "common": "المسكيك" },
+      "bre": { "official": "Stadoù-Unanet Mec'hiko", "common": "Mec'hiko" },
+      "ces": { "official": "Spojené státy mexické", "common": "Mexiko" },
+      "cym": { "official": "United Mexican States", "common": "Mexico" },
+      "deu": {
+        "official": "Vereinigte Mexikanische Staaten",
+        "common": "Mexiko"
+      },
+      "est": { "official": "Mehhiko Ühendriigid", "common": "Mehhiko" },
+      "fin": { "official": "Meksikon yhdysvallat", "common": "Meksiko" },
+      "fra": { "official": "États-Unis du Mexique", "common": "Mexique" },
+      "hrv": { "official": "Sjedinjene Meksičke Države", "common": "Meksiko" },
+      "hun": { "official": "Mexikói Egyesült Államok", "common": "Mexikó" },
+      "ita": { "official": "Stati Uniti del Messico", "common": "Messico" },
+      "jpn": { "official": "メキシコ合衆国", "common": "メキシコ" },
+      "kor": { "official": "멕시코 합중국", "common": "멕시코" },
+      "nld": { "official": "Verenigde Mexicaanse Staten", "common": "Mexico" },
+      "per": { "official": "ایالات متحد مکزیک", "common": "مکزیک" },
+      "pol": {
+        "official": "Meksykańskie Stany Zjednoczone",
+        "common": "Meksyk"
+      },
+      "por": { "official": "Estados Unidos Mexicanos", "common": "México" },
+      "rus": {
+        "official": "Мексиканские Соединённые Штаты",
+        "common": "Мексика"
+      },
+      "slk": { "official": "Spojené štášy mexické", "common": "Mexiko" },
+      "spa": { "official": "Estados Unidos Mexicanos", "common": "México" },
+      "swe": { "official": "Mexikos förenta stater", "common": "Mexiko" },
+      "tur": { "official": "Birleşik Meksika Devletleri", "common": "Meksika" },
+      "urd": { "official": "ریاستہائے متحدہ میکسیکو", "common": "میکسیکو" },
+      "zho": { "official": "墨西哥合众国", "common": "墨西哥" }
+    },
+    "latlng": [23, -102],
+    "landlocked": false,
+    "borders": ["BLZ", "GTM", "USA"],
+    "area": 1964375,
+    "demonyms": {
+      "eng": { "f": "Mexican", "m": "Mexican" },
+      "fra": { "f": "Mexicaine", "m": "Mexicain" }
+    },
+    "flag": "🇲🇽",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/s5g7imNPMDEePxzbA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/114686"
+    },
+    "population": 128932753,
+    "gini": { "2018": 45.4 },
+    "fifa": "MEX",
+    "car": { "signs": ["MEX"], "side": "right" },
+    "timezones": ["UTC-08:00", "UTC-07:00", "UTC-06:00"],
+    "continents": ["North America"],
+    "flags": {
+      "png": "https://flagcdn.com/w320/mx.png",
+      "svg": "https://flagcdn.com/mx.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/mx.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/mx.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": { "latlng": [19.43, -99.13] },
+    "postalCode": { "format": "#####", "regex": "^(\\d{5})$" }
+  },
+  {
+    "name": {
+      "common": "Jamaica",
+      "official": "Jamaica",
+      "nativeName": {
+        "eng": { "official": "Jamaica", "common": "Jamaica" },
+        "jam": { "official": "Jamaica", "common": "Jamaica" }
+      }
+    },
+    "tld": [".jm"],
+    "cca2": "JM",
+    "ccn3": "388",
+    "cca3": "JAM",
+    "cioc": "JAM",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": { "JMD": { "name": "Jamaican dollar", "symbol": "$" } },
+    "idd": { "root": "+1", "suffixes": ["876"] },
+    "capital": ["Kingston"],
+    "altSpellings": ["JM"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": { "eng": "English", "jam": "Jamaican Patois" },
+    "translations": {
+      "ara": { "official": "جامايكا", "common": "جامايكا" },
+      "bre": { "official": "Jamaika", "common": "Jamaika" },
+      "ces": { "official": "Jamajka", "common": "Jamajka" },
+      "cym": { "official": "Jamaica", "common": "Jamaica" },
+      "deu": { "official": "Jamaika", "common": "Jamaika" },
+      "est": { "official": "Jamaica", "common": "Jamaica" },
+      "fin": { "official": "Jamaika", "common": "Jamaika" },
+      "fra": { "official": "Jamaïque", "common": "Jamaïque" },
+      "hrv": { "official": "Jamajka", "common": "Jamajka" },
+      "hun": { "official": "Jamaica", "common": "Jamaica" },
+      "ita": { "official": "Giamaica", "common": "Giamaica" },
+      "jpn": { "official": "ジャマイカ", "common": "ジャマイカ" },
+      "kor": { "official": "자메이카", "common": "자메이카" },
+      "nld": { "official": "Jamaica", "common": "Jamaica" },
+      "per": { "official": "جامائیکا", "common": "جامائیکا" },
+      "pol": { "official": "Jamajka", "common": "Jamajka" },
+      "por": { "official": "Jamaica", "common": "Jamaica" },
+      "rus": { "official": "Ямайка", "common": "Ямайка" },
+      "slk": { "official": "Jamajka", "common": "Jamajka" },
+      "spa": { "official": "Jamaica", "common": "Jamaica" },
+      "swe": { "official": "Jamaica", "common": "Jamaica" },
+      "tur": { "official": "Jamaika", "common": "Jamaika" },
+      "urd": { "official": "جمیکا", "common": "جمیکا" },
+      "zho": { "official": "牙买加", "common": "牙买加" }
+    },
+    "latlng": [18.25, -77.5],
+    "landlocked": false,
+    "area": 10991,
+    "demonyms": {
+      "eng": { "f": "Jamaican", "m": "Jamaican" },
+      "fra": { "f": "Jamaïcaine", "m": "Jamaïcain" }
+    },
+    "flag": "🇯🇲",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/Z8mQ6jxnRQKFwJy9A",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/555017"
+    },
+    "population": 2961161,
+    "gini": { "2004": 45.5 },
+    "fifa": "JAM",
+    "car": { "signs": ["JA"], "side": "left" },
+    "timezones": ["UTC-05:00"],
+    "continents": ["North America"],
+    "flags": {
+      "png": "https://flagcdn.com/w320/jm.png",
+      "svg": "https://flagcdn.com/jm.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/jm.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/jm.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": { "latlng": [17.99702, -76.79358] }
+  },
+  {
+    "name": {
+      "common": "Honduras",
+      "official": "Republic of Honduras",
+      "nativeName": {
+        "spa": { "official": "República de Honduras", "common": "Honduras" }
+      }
+    },
+    "tld": [".hn"],
+    "cca2": "HN",
+    "ccn3": "340",
+    "cca3": "HND",
+    "cioc": "HON",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": { "HNL": { "name": "Honduran lempira", "symbol": "L" } },
+    "idd": { "root": "+5", "suffixes": ["04"] },
+    "capital": ["Tegucigalpa"],
+    "altSpellings": ["HN", "Republic of Honduras", "República de Honduras"],
+    "region": "Americas",
+    "subregion": "Central America",
+    "languages": { "spa": "Spanish" },
+    "translations": {
+      "ara": { "official": "جمهورية هندوراس", "common": "هندوراس" },
+      "bre": { "official": "Republik Honduras", "common": "Honduras" },
+      "ces": { "official": "Honduraská republika", "common": "Honduras" },
+      "cym": { "official": "Republic of Honduras", "common": "Honduras" },
+      "deu": { "official": "Republik Honduras", "common": "Honduras" },
+      "est": { "official": "Hondurase Vabariik", "common": "Honduras" },
+      "fin": { "official": "Hondurasin tasavalta", "common": "Honduras" },
+      "fra": { "official": "République du Honduras", "common": "Honduras" },
+      "hrv": { "official": "Republika Honduras", "common": "Honduras" },
+      "hun": { "official": "Hondurasi Köztársaság", "common": "Honduras" },
+      "ita": { "official": "Repubblica di Honduras", "common": "Honduras" },
+      "jpn": { "official": "ホンジュラス共和国", "common": "ホンジュラス" },
+      "kor": { "official": "온두라스 공화국", "common": "온두라스" },
+      "nld": { "official": "Republiek Honduras", "common": "Honduras" },
+      "per": { "official": "جمهوری هندوراس", "common": "هُندوراس" },
+      "pol": { "official": "Republika Hondurasu", "common": "Honduras" },
+      "por": { "official": "República de Honduras", "common": "Honduras" },
+      "rus": { "official": "Республика Гондурас", "common": "Гондурас" },
+      "slk": { "official": "Honduraská republika", "common": "Honduras" },
+      "spa": { "official": "República de Honduras", "common": "Honduras" },
+      "swe": { "official": "Republiken Honduras", "common": "Honduras" },
+      "tur": { "official": "Honduras Cumhuriyeti", "common": "Honduras" },
+      "urd": { "official": "جمہوریہ ہونڈوراس", "common": "ہونڈوراس" },
+      "zho": { "official": "洪都拉斯共和国", "common": "洪都拉斯" }
+    },
+    "latlng": [15, -86.5],
+    "landlocked": false,
+    "borders": ["GTM", "SLV", "NIC"],
+    "area": 112492,
+    "demonyms": {
+      "eng": { "f": "Honduran", "m": "Honduran" },
+      "fra": { "f": "Hondurienne", "m": "Hondurien" }
+    },
+    "flag": "🇭🇳",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/BbeJK8Sk2VkMHbdF8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/287670"
+    },
+    "population": 9904608,
+    "gini": { "2019": 48.2 },
+    "fifa": "HON",
+    "car": { "signs": ["HN"], "side": "right" },
+    "timezones": ["UTC-06:00"],
+    "continents": ["North America"],
+    "flags": {
+      "png": "https://flagcdn.com/w320/hn.png",
+      "svg": "https://flagcdn.com/hn.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/hn.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/hn.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": { "latlng": [14.1, -87.22] },
+    "postalCode": { "format": "@@####", "regex": "^([A-Z]{2}\\d{4})$" }
+  },
+  {
+    "name": {
+      "common": "Haiti",
+      "official": "Republic of Haiti",
+      "nativeName": {
+        "fra": { "official": "République d'Haïti", "common": "Haïti" },
+        "hat": { "official": "Repiblik Ayiti", "common": "Ayiti" }
+      }
+    },
+    "tld": [".ht"],
+    "cca2": "HT",
+    "ccn3": "332",
+    "cca3": "HTI",
+    "cioc": "HAI",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": { "HTG": { "name": "Haitian gourde", "symbol": "G" } },
+    "idd": { "root": "+5", "suffixes": ["09"] },
+    "capital": ["Port-au-Prince"],
+    "altSpellings": [
+      "HT",
+      "Republic of Haiti",
+      "République d'Haïti",
+      "Repiblik Ayiti"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": { "fra": "French", "hat": "Haitian Creole" },
+    "translations": {
+      "ara": { "official": "جمهورية هايتي", "common": "هايتي" },
+      "bre": { "official": "Republik Haiti", "common": "Haiti" },
+      "ces": { "official": "Republika Haiti", "common": "Haiti" },
+      "cym": { "official": "Republic of Haiti", "common": "Haiti" },
+      "deu": { "official": "Republik Haiti", "common": "Haiti" },
+      "est": { "official": "Haiti Vabariik", "common": "Haiti" },
+      "fin": { "official": "Haitin tasavalta", "common": "Haiti" },
+      "fra": { "official": "République d'Haïti", "common": "Haïti" },
+      "hrv": { "official": "Republika Haiti", "common": "Haiti" },
+      "hun": { "official": "Haiti Köztársaság", "common": "Haiti" },
+      "ita": { "official": "Repubblica di Haiti", "common": "Haiti" },
+      "jpn": { "official": "ハイチ共和国", "common": "ハイチ" },
+      "kor": { "official": "아이티 공화국", "common": "아이티" },
+      "nld": { "official": "Republiek Haïti", "common": "Haïti" },
+      "per": { "official": "جمهوری هائیتی", "common": "هائیتی" },
+      "pol": { "official": "Republika Haiti", "common": "Haiti" },
+      "por": { "official": "República do Haiti", "common": "Haiti" },
+      "rus": { "official": "Республика Гаити", "common": "Гаити" },
+      "slk": { "official": "Haitská republika", "common": "Haiti" },
+      "spa": { "official": "República de Haití", "common": "Haití" },
+      "swe": { "official": "Republiken Haiti", "common": "Haiti" },
+      "tur": { "official": "Haiti Cumhuriyeti", "common": "Haiti" },
+      "urd": { "official": "جمہوریہ ہیٹی", "common": "ہیٹی" },
+      "zho": { "official": "海地共和国", "common": "海地" }
+    },
+    "latlng": [19, -72.41666666],
+    "landlocked": false,
+    "borders": ["DOM"],
+    "area": 27750,
+    "demonyms": {
+      "eng": { "f": "Haitian", "m": "Haitian" },
+      "fra": { "f": "Haïtienne", "m": "Haïtien" }
+    },
+    "flag": "🇭🇹",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/9o13xtjuUdqFnHbn9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/307829"
+    },
+    "population": 11402533,
+    "gini": { "2012": 41.1 },
+    "fifa": "HAI",
+    "car": { "signs": ["RH"], "side": "right" },
+    "timezones": ["UTC-05:00"],
+    "continents": ["North America"],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ht.png",
+      "svg": "https://flagcdn.com/ht.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ht.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ht.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": { "latlng": [18.53, -72.33] },
+    "postalCode": { "format": "HT####", "regex": "^(?:HT)*(\\d{4})$" }
+  },
+  {
+    "name": {
+      "common": "Guatemala",
+      "official": "Republic of Guatemala",
+      "nativeName": {
+        "spa": { "official": "República de Guatemala", "common": "Guatemala" }
+      }
+    },
+    "tld": [".gt"],
+    "cca2": "GT",
+    "ccn3": "320",
+    "cca3": "GTM",
+    "cioc": "GUA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": { "GTQ": { "name": "Guatemalan quetzal", "symbol": "Q" } },
+    "idd": { "root": "+5", "suffixes": ["02"] },
+    "capital": ["Guatemala City"],
+    "altSpellings": ["GT"],
+    "region": "Americas",
+    "subregion": "Central America",
+    "languages": { "spa": "Spanish" },
+    "translations": {
+      "ara": { "official": "جمهورية غواتيمالا", "common": "غواتيمالا" },
+      "bre": { "official": "Republik Guatemala", "common": "Guatemala" },
+      "ces": { "official": "Republika Guatemala", "common": "Guatemala" },
+      "cym": { "official": "Republic of Guatemala", "common": "Guatemala" },
+      "deu": { "official": "Republik Guatemala", "common": "Guatemala" },
+      "est": { "official": "Guatemala Vabariik", "common": "Guatemala" },
+      "fin": { "official": "Guatemalan tasavalta", "common": "Guatemala" },
+      "fra": { "official": "République du Guatemala", "common": "Guatemala" },
+      "hrv": { "official": "Republika Gvatemala", "common": "Gvatemala" },
+      "hun": { "official": "Guatemalai Köztársaság", "common": "Guatemala" },
+      "ita": { "official": "Repubblica del Guatemala", "common": "Guatemala" },
+      "jpn": { "official": "グアテマラ共和国", "common": "グアテマラ" },
+      "kor": { "official": "과테말라 공화국", "common": "과테말라" },
+      "nld": { "official": "Republiek Guatemala", "common": "Guatemala" },
+      "per": { "official": "جمهوری گواتِمالا", "common": "گواتِمالا" },
+      "pol": { "official": "Republika Gwatemali", "common": "Gwatemala" },
+      "por": { "official": "República da Guatemala", "common": "Guatemala" },
+      "rus": { "official": "Республика Гватемала", "common": "Гватемала" },
+      "slk": { "official": "Guatemalská republika", "common": "Guatemala" },
+      "spa": { "official": "República de Guatemala", "common": "Guatemala" },
+      "swe": { "official": "Republiken Guatemala", "common": "Guatemala" },
+      "tur": { "official": "Guatemala Cumhuriyeti", "common": "Guatemala" },
+      "urd": { "official": "جمہوریہ گواتیمالا", "common": "گواتیمالا" },
+      "zho": { "official": "危地马拉共和国", "common": "危地马拉" }
+    },
+    "latlng": [15.5, -90.25],
+    "landlocked": false,
+    "borders": ["BLZ", "SLV", "HND", "MEX"],
+    "area": 108889,
+    "demonyms": {
+      "eng": { "f": "Guatemalan", "m": "Guatemalan" },
+      "fra": { "f": "Guatémaltèque", "m": "Guatémaltèque" }
+    },
+    "flag": "🇬🇹",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/JoRAbem4Hxb9FYbVA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1521463"
+    },
+    "population": 16858333,
+    "gini": { "2014": 48.3 },
+    "fifa": "GUA",
+    "car": { "signs": ["GCA"], "side": "right" },
+    "timezones": ["UTC-06:00"],
+    "continents": ["North America"],
+    "flags": {
+      "png": "https://flagcdn.com/w320/gt.png",
+      "svg": "https://flagcdn.com/gt.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/gt.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/gt.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": { "latlng": [14.62, -90.52] },
+    "postalCode": { "format": "#####", "regex": "^(\\d{5})$" }
+  },
+  {
+    "name": {
+      "common": "Grenada",
+      "official": "Grenada",
+      "nativeName": { "eng": { "official": "Grenada", "common": "Grenada" } }
+    },
+    "tld": [".gd"],
+    "cca2": "GD",
+    "ccn3": "308",
+    "cca3": "GRD",
+    "cioc": "GRN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "XCD": { "name": "Eastern Caribbean dollar", "symbol": "$" }
+    },
+    "idd": { "root": "+1", "suffixes": ["473"] },
+    "capital": ["St. George's"],
+    "altSpellings": ["GD"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": { "eng": "English" },
+    "translations": {
+      "ara": { "official": "غرينادا", "common": "غرينادا" },
+      "bre": { "official": "Grenada", "common": "Grenada" },
+      "ces": { "official": "Grenada", "common": "Grenada" },
+      "cym": { "official": "Grenada", "common": "Grenada" },
+      "deu": { "official": "Grenada", "common": "Grenada" },
+      "est": { "official": "Grenada", "common": "Grenada" },
+      "fin": { "official": "Grenada", "common": "Grenada" },
+      "fra": { "official": "Grenade", "common": "Grenade" },
+      "hrv": { "official": "Grenada", "common": "Grenada" },
+      "hun": { "official": "Grenada", "common": "Grenada" },
+      "ita": { "official": "Grenada", "common": "Grenada" },
+      "jpn": { "official": "グレナダ", "common": "グレナダ" },
+      "kor": { "official": "그레나다", "common": "그레나다" },
+      "nld": { "official": "Grenada", "common": "Grenada" },
+      "per": { "official": "گرنادا", "common": "گرنادا" },
+      "pol": { "official": "Grenada", "common": "Grenada" },
+      "por": { "official": "Grenada", "common": "Granada" },
+      "rus": { "official": "Гренада", "common": "Гренада" },
+      "slk": { "official": "Grenada", "common": "Grenada" },
+      "spa": { "official": "Granada", "common": "Grenada" },
+      "swe": { "official": "Grenada", "common": "Grenada" },
+      "tur": { "official": "Grenada", "common": "Grenada" },
+      "urd": { "official": "گریناڈا", "common": "گریناڈا" },
+      "zho": { "official": "格林纳达", "common": "格林纳达" }
+    },
+    "latlng": [12.11666666, -61.66666666],
+    "landlocked": false,
+    "area": 344,
+    "demonyms": {
+      "eng": { "f": "Grenadian", "m": "Grenadian" },
+      "fra": { "f": "Grenadienne", "m": "Grenadien" }
+    },
+    "flag": "🇬🇩",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/rqWyfUAt4xhvk1Zy9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/550727"
+    },
+    "population": 112519,
+    "fifa": "GRN",
+    "car": { "signs": ["WG"], "side": "left" },
+    "timezones": ["UTC-04:00"],
+    "continents": ["North America"],
+    "flags": {
+      "png": "https://flagcdn.com/w320/gd.png",
+      "svg": "https://flagcdn.com/gd.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/gd.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/gd.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": { "latlng": [32.38, -64.68] }
+  },
+  {
+    "name": {
+      "common": "El Salvador",
+      "official": "Republic of El Salvador",
+      "nativeName": {
+        "spa": {
+          "official": "República de El Salvador",
+          "common": "El Salvador"
+        }
+      }
+    },
+    "tld": [".sv"],
+    "cca2": "SV",
+    "ccn3": "222",
+    "cca3": "SLV",
+    "cioc": "ESA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": { "USD": { "name": "United States dollar", "symbol": "$" } },
+    "idd": { "root": "+5", "suffixes": ["03"] },
+    "capital": ["San Salvador"],
+    "altSpellings": [
+      "SV",
+      "Republic of El Salvador",
+      "República de El Salvador"
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "languages": { "spa": "Spanish" },
+    "translations": {
+      "ara": { "official": "جمهورية السلفادور", "common": "السلفادور" },
+      "bre": { "official": "Republik El Salvador", "common": "El Salvador" },
+      "ces": { "official": "Salvadorská republika", "common": "Salvador" },
+      "cym": { "official": "Gweriniaeth El Salfador", "common": "El Salfador" },
+      "deu": { "official": "Republik El Salvador", "common": "El Salvador" },
+      "est": { "official": "El Salvadori Vabariik", "common": "El Salvador" },
+      "fin": { "official": "El Salvadorin tasavalta", "common": "El Salvador" },
+      "fra": { "official": "République du Salvador", "common": "Salvador" },
+      "hrv": { "official": "Republika El Salvador", "common": "Salvador" },
+      "hun": { "official": "Salvadori Köztársaság", "common": "Salvador" },
+      "ita": {
+        "official": "Repubblica di El Salvador",
+        "common": "El Salvador"
+      },
+      "jpn": { "official": "エルサルバドル共和国", "common": "エルサルバドル" },
+      "kor": { "official": "엘살바도르 공화국", "common": "엘살바도르" },
+      "nld": { "official": "Republiek El Salvador", "common": "El Salvador" },
+      "per": { "official": "جمهوری السالوادور", "common": "السالوادور" },
+      "pol": { "official": "Republika Salwadoru", "common": "Salwador" },
+      "por": {
+        "official": "República de El Salvador",
+        "common": "El Salvador"
+      },
+      "rus": { "official": "Республика Эль-Сальвадор", "common": "Сальвадор" },
+      "slk": { "official": "Salvádorská republika", "common": "Salvádor" },
+      "spa": {
+        "official": "República de El Salvador",
+        "common": "El Salvador"
+      },
+      "swe": { "official": "Republiken El Salvador", "common": "El Salvador" },
+      "tur": { "official": "El Salvador Cumhuriyeti", "common": "El Salvador" },
+      "urd": { "official": "جمہوریہ ایل سیلواڈور", "common": "ایل سیلواڈور" },
+      "zho": { "official": "萨尔瓦多共和国", "common": "萨尔瓦多" }
+    },
+    "latlng": [13.83333333, -88.91666666],
+    "landlocked": false,
+    "borders": ["GTM", "HND"],
+    "area": 21041,
+    "demonyms": {
+      "eng": { "f": "Salvadoran", "m": "Salvadoran" },
+      "fra": { "f": "Salvadorienne", "m": "Salvadorien" }
+    },
+    "flag": "🇸🇻",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/cZnCEi5sEMQtKKcB7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1520612"
+    },
+    "population": 6486201,
+    "gini": { "2019": 38.8 },
+    "fifa": "SLV",
+    "car": { "signs": ["ES"], "side": "right" },
+    "timezones": ["UTC-06:00"],
+    "continents": ["North America"],
+    "flags": {
+      "png": "https://flagcdn.com/w320/sv.png",
+      "svg": "https://flagcdn.com/sv.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/sv.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/sv.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": { "latlng": [13.7, -89.2] },
+    "postalCode": { "format": "CP ####", "regex": "^(?:CP)*(\\d{4})$" }
+  },
+  {
+    "name": {
+      "common": "Dominican Republic",
+      "official": "Dominican Republic",
+      "nativeName": {
+        "spa": {
+          "official": "República Dominicana",
+          "common": "República Dominicana"
+        }
+      }
+    },
+    "tld": [".do"],
+    "cca2": "DO",
+    "ccn3": "214",
+    "cca3": "DOM",
+    "cioc": "DOM",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": { "DOP": { "name": "Dominican peso", "symbol": "$" } },
+    "idd": { "root": "+1", "suffixes": ["809", "829", "849"] },
+    "capital": ["Santo Domingo"],
+    "altSpellings": ["DO"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": { "spa": "Spanish" },
+    "translations": {
+      "ara": {
+        "official": "جمهورية الدومينيكان",
+        "common": "جمهورية الدومينيكان"
+      },
+      "bre": {
+        "official": "Republik Dominikan",
+        "common": "Republik Dominikan"
+      },
+      "ces": {
+        "official": "Dominikánská republika",
+        "common": "Dominikánská republika"
+      },
+      "cym": {
+        "official": "Gweriniaeth Dominica",
+        "common": "Gweriniaeth Dominica"
+      },
+      "deu": {
+        "official": "Dominikanische Republik",
+        "common": "Dominikanische Republik"
+      },
+      "est": {
+        "official": "Dominikaani Vabariik",
+        "common": "Dominikaani Vabariik"
+      },
+      "fin": {
+        "official": "Dominikaaninen tasavalta",
+        "common": "Dominikaaninen tasavalta"
+      },
+      "fra": {
+        "official": "République Dominicaine",
+        "common": "République dominicaine"
+      },
+      "hrv": {
+        "official": "Dominikanska Republika",
+        "common": "Dominikanska Republika"
+      },
+      "hun": {
+        "official": "Dominikai Köztársaság",
+        "common": "Dominikai Köztársaság"
+      },
+      "ita": {
+        "official": "Repubblica Dominicana",
+        "common": "Repubblica Dominicana"
+      },
+      "jpn": { "official": "ドミニカ共和国", "common": "ドミニカ共和国" },
+      "kor": { "official": "도미니카 공화국", "common": "도미니카 공화국" },
+      "nld": {
+        "official": "Dominicaanse Republiek",
+        "common": "Dominicaanse Republiek"
+      },
+      "per": { "official": "جمهوری دومینیکن", "common": "جمهوری دومینیکن" },
+      "pol": { "official": "Republika Dominikańska", "common": "Dominikana" },
+      "por": {
+        "official": "República Dominicana",
+        "common": "República Dominicana"
+      },
+      "rus": {
+        "official": "Доминиканская Республика",
+        "common": "Доминиканская Республика"
+      },
+      "slk": {
+        "official": "Dominikánska republika",
+        "common": "Dominikánska republika"
+      },
+      "spa": {
+        "official": "República Dominicana",
+        "common": "República Dominicana"
+      },
+      "swe": {
+        "official": "Dominikanska republiken",
+        "common": "Dominikanska republiken"
+      },
+      "tur": {
+        "official": "Dominik Cumhuriyeti",
+        "common": "Dominik Cumhuriyeti"
+      },
+      "urd": { "official": "جمہوریہ ڈومینیکن", "common": "ڈومینیکن" },
+      "zho": { "official": "多明尼加共和国", "common": "多明尼加" }
+    },
+    "latlng": [19, -70.66666666],
+    "landlocked": false,
+    "borders": ["HTI"],
+    "area": 48671,
+    "demonyms": {
+      "eng": { "f": "Dominican", "m": "Dominican" },
+      "fra": { "f": "Dominicaine", "m": "Dominicain" }
+    },
+    "flag": "🇩🇴",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/soxooTHxEeiAbn3UA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/307828"
+    },
+    "population": 10847904,
+    "gini": { "2019": 41.9 },
+    "fifa": "DOM",
+    "car": { "signs": ["DOM"], "side": "right" },
+    "timezones": ["UTC-04:00"],
+    "continents": ["North America"],
+    "flags": {
+      "png": "https://flagcdn.com/w320/do.png",
+      "svg": "https://flagcdn.com/do.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/do.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/do.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": { "latlng": [18.47, -69.9] },
+    "postalCode": { "format": "#####", "regex": "^(\\d{5})$" }
+  },
+  {
+    "name": {
+      "common": "Dominica",
+      "official": "Commonwealth of Dominica",
+      "nativeName": {
+        "eng": { "official": "Commonwealth of Dominica", "common": "Dominica" }
+      }
+    },
+    "tld": [".dm"],
+    "cca2": "DM",
+    "ccn3": "212",
+    "cca3": "DMA",
+    "cioc": "DMA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "XCD": { "name": "Eastern Caribbean dollar", "symbol": "$" }
+    },
+    "idd": { "root": "+1", "suffixes": ["767"] },
+    "capital": ["Roseau"],
+    "altSpellings": [
+      "DM",
+      "Dominique",
+      "Wai‘tu kubuli",
+      "Commonwealth of Dominica"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": { "eng": "English" },
+    "translations": {
+      "ara": { "official": "كومونولث دومينيكا", "common": "دومينيكا" },
+      "bre": { "official": "Kenglad Dominika", "common": "Dominika" },
+      "ces": { "official": "Dominikánské společenství", "common": "Dominika" },
+      "cym": { "official": "Cymanwlad Dominica", "common": "Dominica" },
+      "deu": { "official": "Commonwealth von Dominica", "common": "Dominica" },
+      "est": { "official": "Dominica Ühendus", "common": "Dominica" },
+      "fin": { "official": "Dominican liittovaltio", "common": "Dominica" },
+      "fra": {
+        "official": "Commonwealth de la Dominique",
+        "common": "Dominique"
+      },
+      "hrv": { "official": "Zajednica Dominika", "common": "Dominika" },
+      "hun": {
+        "official": "Dominikai Közösség",
+        "common": "Dominikai Közösség"
+      },
+      "ita": { "official": "Commonwealth di Dominica", "common": "Dominica" },
+      "jpn": { "official": "ドミニカ国", "common": "ドミニカ国" },
+      "kor": { "official": "도미니카 공화국", "common": "도미니카 공화국" },
+      "nld": { "official": "Gemenebest Dominica", "common": "Dominica" },
+      "per": { "official": "قلمرو همسود دومینیکا", "common": "دومینیکا" },
+      "pol": { "official": "Wspólnota Dominiki", "common": "Dominika" },
+      "por": { "official": "Comunidade da Dominica", "common": "Dominica" },
+      "rus": { "official": "Содружество Доминики", "common": "Доминика" },
+      "slk": { "official": "Dominické spoločenstvo", "common": "Dominika" },
+      "spa": { "official": "Mancomunidad de Dominica", "common": "Dominica" },
+      "swe": { "official": "Samväldet Dominica", "common": "Dominica" },
+      "tur": { "official": "Dominika Topluluğu", "common": "Dominika" },
+      "urd": { "official": "دولتِ مشترکہ ڈومینیکا", "common": "ڈومینیکا" },
+      "zho": { "official": "多米尼加共和国", "common": "多米尼加" }
+    },
+    "latlng": [15.41666666, -61.33333333],
+    "landlocked": false,
+    "area": 751,
+    "demonyms": {
+      "eng": { "f": "Dominican", "m": "Dominican" },
+      "fra": { "f": "Dominiquaise", "m": "Dominiquais" }
+    },
+    "flag": "🇩🇲",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/HSKdHYpFC8oHHuyV7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/307823"
+    },
+    "population": 71991,
+    "fifa": "DMA",
+    "car": { "signs": ["WD"], "side": "left" },
+    "timezones": ["UTC-04:00"],
+    "continents": ["North America"],
+    "flags": {
+      "png": "https://flagcdn.com/w320/dm.png",
+      "svg": "https://flagcdn.com/dm.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/dm.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/dm.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": { "latlng": [15.3, -61.4] }
+  },
+  {
+    "name": {
+      "common": "Cuba",
+      "official": "Republic of Cuba",
+      "nativeName": {
+        "spa": { "official": "República de Cuba", "common": "Cuba" }
+      }
+    },
+    "tld": [".cu"],
+    "cca2": "CU",
+    "ccn3": "192",
+    "cca3": "CUB",
+    "cioc": "CUB",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "CUC": { "name": "Cuban convertible peso", "symbol": "$" },
+      "CUP": { "name": "Cuban peso", "symbol": "$" }
+    },
+    "idd": { "root": "+5", "suffixes": ["3"] },
+    "capital": ["Havana"],
+    "altSpellings": ["CU", "Republic of Cuba", "República de Cuba"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": { "spa": "Spanish" },
+    "translations": {
+      "ara": { "official": "جمهورية كوبا", "common": "كوبا" },
+      "bre": { "official": "Republik Kuba", "common": "Kuba" },
+      "ces": { "official": "Kubánská republika", "common": "Kuba" },
+      "cym": { "official": "Gweriniaeth Ciwba", "common": "Ciwba" },
+      "deu": { "official": "Republik Kuba", "common": "Kuba" },
+      "est": { "official": "Kuuba Vabariik", "common": "Kuuba" },
+      "fin": { "official": "Kuuban tasavalta", "common": "Kuuba" },
+      "fra": { "official": "République de Cuba", "common": "Cuba" },
+      "hrv": { "official": "Republika Kuba", "common": "Kuba" },
+      "hun": { "official": "Kubai Köztársaság", "common": "Kuba" },
+      "ita": { "official": "Repubblica di Cuba", "common": "Cuba" },
+      "jpn": { "official": "キューバ共和国", "common": "キューバ" },
+      "kor": { "official": "쿠바 공화국", "common": "쿠바" },
+      "nld": { "official": "Republiek Cuba", "common": "Cuba" },
+      "per": { "official": "جمهوری کوبا", "common": "کوبا" },
+      "pol": { "official": "Republika Kuby", "common": "Kuba" },
+      "por": { "official": "República de Cuba", "common": "Cuba" },
+      "rus": { "official": "Республика Куба", "common": "Куба" },
+      "slk": { "official": "Kubánska republika", "common": "Kuba" },
+      "spa": { "official": "República de Cuba", "common": "Cuba" },
+      "swe": { "official": "Republiken Kuba", "common": "Kuba" },
+      "tur": { "official": "Küba Cumhuriyeti", "common": "Küba" },
+      "urd": { "official": "جمہوریہ کیوبا", "common": "کیوبا" },
+      "zho": { "official": "古巴共和国", "common": "古巴" }
+    },
+    "latlng": [21.5, -80],
+    "landlocked": false,
+    "area": 109884,
+    "demonyms": {
+      "eng": { "f": "Cuban", "m": "Cuban" },
+      "fra": { "f": "Cubaine", "m": "Cubain" }
+    },
+    "flag": "🇨🇺",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/1dDw1QfZspfMUTm99",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/307833"
+    },
+    "population": 11326616,
+    "fifa": "CUB",
+    "car": { "signs": ["C"], "side": "right" },
+    "timezones": ["UTC-05:00"],
+    "continents": ["North America"],
+    "flags": {
+      "png": "https://flagcdn.com/w320/cu.png",
+      "svg": "https://flagcdn.com/cu.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/cu.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/cu.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": { "latlng": [23.12, -82.35] },
+    "postalCode": { "format": "CP #####", "regex": "^(?:CP)*(\\d{5})$" }
+  },
+  {
+    "name": {
+      "common": "Costa Rica",
+      "official": "Republic of Costa Rica",
+      "nativeName": {
+        "spa": { "official": "República de Costa Rica", "common": "Costa Rica" }
+      }
+    },
+    "tld": [".cr"],
+    "cca2": "CR",
+    "ccn3": "188",
+    "cca3": "CRI",
+    "cioc": "CRC",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": { "CRC": { "name": "Costa Rican colón", "symbol": "₡" } },
+    "idd": { "root": "+5", "suffixes": ["06"] },
+    "capital": ["San José"],
+    "altSpellings": ["CR", "Republic of Costa Rica", "República de Costa Rica"],
+    "region": "Americas",
+    "subregion": "Central America",
+    "languages": { "spa": "Spanish" },
+    "translations": {
+      "ara": { "official": "جمهورية كوستاريكا", "common": "كوستاريكا" },
+      "bre": { "official": "Republik Costa Rica", "common": "Costa Rica" },
+      "ces": { "official": "Kostarická republika", "common": "Kostarika" },
+      "cym": { "official": "Gweriniaeth Costa Rica", "common": "Costa Rica" },
+      "deu": { "official": "Republik Costa Rica", "common": "Costa Rica" },
+      "est": { "official": "Costa Rica Vabariik", "common": "Costa Rica" },
+      "fin": { "official": "Costa Rican tasavalta", "common": "Costa Rica" },
+      "fra": { "official": "République du Costa Rica", "common": "Costa Rica" },
+      "hrv": { "official": "Republika Kostarika", "common": "Kostarika" },
+      "hun": { "official": "Costa Rica-i Köztársaság", "common": "Costa Rica" },
+      "ita": { "official": "Repubblica di Costa Rica", "common": "Costa Rica" },
+      "jpn": { "official": "コスタリカ共和国", "common": "コスタリカ" },
+      "kor": { "official": "코스타리카 공화국", "common": "코스타리카" },
+      "nld": { "official": "Republiek Costa Rica", "common": "Costa Rica" },
+      "per": { "official": "جمهوری کاستاریکا", "common": "کاستاریکا" },
+      "pol": { "official": "Republika Kostaryki", "common": "Kostaryka" },
+      "por": { "official": "República da Costa Rica", "common": "Costa Rica" },
+      "rus": { "official": "Республика Коста-Рика", "common": "Коста-Рика" },
+      "slk": { "official": "Kostarická republika", "common": "Kostarika" },
+      "spa": { "official": "República de Costa Rica", "common": "Costa Rica" },
+      "swe": { "official": "Republiken Costa Rica", "common": "Costa Rica" },
+      "tur": { "official": "Kosta Rika Cumhuriyeti", "common": "Kosta Rika" },
+      "urd": { "official": "جمہوریہ کوسٹاریکا", "common": "کوسٹاریکا" },
+      "zho": { "official": "哥斯达黎加共和国", "common": "哥斯达黎加" }
+    },
+    "latlng": [10, -84],
+    "landlocked": false,
+    "borders": ["NIC", "PAN"],
+    "area": 51100,
+    "demonyms": {
+      "eng": { "f": "Costa Rican", "m": "Costa Rican" },
+      "fra": { "f": "Costaricaine", "m": "Costaricain" }
+    },
+    "flag": "🇨🇷",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/RFiwytjvNrpfKN7k6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/287667"
+    },
+    "population": 5094114,
+    "gini": { "2019": 48.2 },
+    "fifa": "CRC",
+    "car": { "signs": ["CR"], "side": "right" },
+    "timezones": ["UTC-06:00"],
+    "continents": ["North America"],
+    "flags": {
+      "png": "https://flagcdn.com/w320/cr.png",
+      "svg": "https://flagcdn.com/cr.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/cr.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/cr.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": { "latlng": [9.93, -84.09] },
+    "postalCode": { "format": "####", "regex": "^(\\d{4})$" }
+  },
+  {
+    "name": {
+      "common": "Canada",
+      "official": "Canada",
+      "nativeName": {
+        "eng": { "official": "Canada", "common": "Canada" },
+        "fra": { "official": "Canada", "common": "Canada" }
+      }
+    },
+    "tld": [".ca"],
+    "cca2": "CA",
+    "ccn3": "124",
+    "cca3": "CAN",
+    "cioc": "CAN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": { "CAD": { "name": "Canadian dollar", "symbol": "$" } },
+    "idd": { "root": "+1", "suffixes": [""] },
+    "capital": ["Ottawa"],
+    "altSpellings": ["CA"],
+    "region": "Americas",
+    "subregion": "North America",
+    "languages": { "eng": "English", "fra": "French" },
+    "translations": {
+      "ara": { "official": "كندا", "common": "كندا" },
+      "bre": { "official": "Kanada", "common": "Kanada" },
+      "ces": { "official": "Kanada", "common": "Kanada" },
+      "cym": { "official": "Canada", "common": "Canada" },
+      "deu": { "official": "Kanada", "common": "Kanada" },
+      "est": { "official": "Kanada", "common": "Kanada" },
+      "fin": { "official": "Kanada", "common": "Kanada" },
+      "fra": { "official": "Canada", "common": "Canada" },
+      "hrv": { "official": "Kanada", "common": "Kanada" },
+      "hun": { "official": "Kanada", "common": "Kanada" },
+      "ita": { "official": "Canada", "common": "Canada" },
+      "jpn": { "official": "カナダ", "common": "カナダ" },
+      "kor": { "official": "캐나다", "common": "캐나다" },
+      "nld": { "official": "Canada", "common": "Canada" },
+      "per": { "official": "کانادا", "common": "کانادا" },
+      "pol": { "official": "Kanada", "common": "Kanada" },
+      "por": { "official": "Canadá", "common": "Canadá" },
+      "rus": { "official": "Канада", "common": "Канада" },
+      "slk": { "official": "Kanada", "common": "Kanada" },
+      "spa": { "official": "Canadá", "common": "Canadá" },
+      "swe": { "official": "Kanada", "common": "Kanada" },
+      "tur": { "official": "Kanada", "common": "Kanada" },
+      "urd": { "official": "کینیڈا", "common": "کینیڈا" },
+      "zho": { "official": "加拿大", "common": "加拿大" }
+    },
+    "latlng": [60, -95],
+    "landlocked": false,
+    "borders": ["USA"],
+    "area": 9984670,
+    "demonyms": {
+      "eng": { "f": "Canadian", "m": "Canadian" },
+      "fra": { "f": "Canadienne", "m": "Canadien" }
+    },
+    "flag": "🇨🇦",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/jmEVLugreeqiZXxbA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1428125"
+    },
+    "population": 38005238,
+    "gini": { "2017": 33.3 },
+    "fifa": "CAN",
+    "car": { "signs": ["CDN"], "side": "right" },
+    "timezones": [
+      "UTC-08:00",
+      "UTC-07:00",
+      "UTC-06:00",
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC-03:30"
+    ],
+    "continents": ["North America"],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ca.png",
+      "svg": "https://flagcdn.com/ca.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ca.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ca.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": { "latlng": [45.42, -75.7] },
+    "postalCode": {
+      "format": "@#@ #@#",
+      "regex": "^([ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJKLMNPRSTVWXYZ]) ?(\\d[ABCEGHJKLMNPRSTVWXYZ]\\d)$ "
+    }
+  },
+  {
+    "name": {
+      "common": "Belize",
+      "official": "Belize",
+      "nativeName": {
+        "bjz": { "official": "Belize", "common": "Belize" },
+        "eng": { "official": "Belize", "common": "Belize" },
+        "spa": { "official": "Belice", "common": "Belice" }
+      }
+    },
+    "tld": [".bz"],
+    "cca2": "BZ",
+    "ccn3": "084",
+    "cca3": "BLZ",
+    "cioc": "BIZ",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": { "BZD": { "name": "Belize dollar", "symbol": "$" } },
+    "idd": { "root": "+5", "suffixes": ["01"] },
+    "capital": ["Belmopan"],
+    "altSpellings": ["BZ"],
+    "region": "Americas",
+    "subregion": "Central America",
+    "languages": {
+      "bjz": "Belizean Creole",
+      "eng": "English",
+      "spa": "Spanish"
+    },
+    "translations": {
+      "ara": { "official": "بليز", "common": "بليز" },
+      "bre": { "official": "Belize", "common": "Belize" },
+      "ces": { "official": "Belize", "common": "Belize" },
+      "cym": { "official": "Belîs", "common": "Belîs" },
+      "deu": { "official": "Belize", "common": "Belize" },
+      "est": { "official": "Belize", "common": "Belize" },
+      "fin": { "official": "Belize", "common": "Belize" },
+      "fra": { "official": "Belize", "common": "Belize" },
+      "hrv": { "official": "Belize", "common": "Belize" },
+      "hun": { "official": "Belize", "common": "Belize" },
+      "ita": { "official": "Belize", "common": "Belize" },
+      "jpn": { "official": "ベリーズ", "common": "ベリーズ" },
+      "kor": { "official": "벨리즈", "common": "벨리즈" },
+      "nld": { "official": "Belize", "common": "Belize" },
+      "per": { "official": "بلیز", "common": "بلیز" },
+      "pol": { "official": "Belize", "common": "Belize" },
+      "por": { "official": "Belize", "common": "Belize" },
+      "rus": { "official": "Белиз", "common": "Белиз" },
+      "slk": { "official": "Belize", "common": "Belize" },
+      "spa": { "official": "Belice", "common": "Belice" },
+      "swe": { "official": "Belize", "common": "Belize" },
+      "tur": { "official": "Belize", "common": "Belize" },
+      "urd": { "official": "بیلیز", "common": "بیلیز" },
+      "zho": { "official": "伯利兹", "common": "伯利兹" }
+    },
+    "latlng": [17.25, -88.75],
+    "landlocked": false,
+    "borders": ["GTM", "MEX"],
+    "area": 22966,
+    "demonyms": {
+      "eng": { "f": "Belizean", "m": "Belizean" },
+      "fra": { "f": "Bélizienne", "m": "Bélizien" }
+    },
+    "flag": "🇧🇿",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/jdCccpdLodm1uTmo9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/287827"
+    },
+    "population": 397621,
+    "gini": { "1999": 53.3 },
+    "fifa": "BLZ",
+    "car": { "signs": ["BH"], "side": "right" },
+    "timezones": ["UTC-06:00"],
+    "continents": ["North America"],
+    "flags": {
+      "png": "https://flagcdn.com/w320/bz.png",
+      "svg": "https://flagcdn.com/bz.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/bz.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/bz.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": { "latlng": [17.25, -88.77] }
+  },
+  {
+    "name": {
+      "common": "Barbados",
+      "official": "Barbados",
+      "nativeName": { "eng": { "official": "Barbados", "common": "Barbados" } }
+    },
+    "tld": [".bb"],
+    "cca2": "BB",
+    "ccn3": "052",
+    "cca3": "BRB",
+    "cioc": "BAR",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": { "BBD": { "name": "Barbadian dollar", "symbol": "$" } },
+    "idd": { "root": "+1", "suffixes": ["246"] },
+    "capital": ["Bridgetown"],
+    "altSpellings": ["BB"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": { "eng": "English" },
+    "translations": {
+      "ara": { "official": "باربادوس", "common": "باربادوس" },
+      "bre": { "official": "Barbados", "common": "Barbados" },
+      "ces": { "official": "Barbados", "common": "Barbados" },
+      "cym": { "official": "Barbados", "common": "Barbados" },
+      "deu": { "official": "Barbados", "common": "Barbados" },
+      "est": { "official": "Barbados", "common": "Barbados" },
+      "fin": { "official": "Barbados", "common": "Barbados" },
+      "fra": { "official": "Barbade", "common": "Barbade" },
+      "hrv": { "official": "Barbados", "common": "Barbados" },
+      "hun": { "official": "Barbados", "common": "Barbados" },
+      "ita": { "official": "Barbados", "common": "Barbados" },
+      "jpn": { "official": "バルバドス", "common": "バルバドス" },
+      "kor": { "official": "바베이도스", "common": "바베이도스" },
+      "nld": { "official": "Barbados", "common": "Barbados" },
+      "per": { "official": "باربادوس", "common": "باربادوس" },
+      "pol": { "official": "Barbados", "common": "Barbados" },
+      "por": { "official": "Barbados", "common": "Barbados" },
+      "rus": { "official": "Барбадос", "common": "Барбадос" },
+      "slk": { "official": "Barbados", "common": "Barbados" },
+      "spa": { "official": "Barbados", "common": "Barbados" },
+      "swe": { "official": "Barbados", "common": "Barbados" },
+      "tur": { "official": "Barbados", "common": "Barbados" },
+      "urd": { "official": "بارباڈوس", "common": "بارباڈوس" },
+      "zho": { "official": "巴巴多斯", "common": "巴巴多斯" }
+    },
+    "latlng": [13.16666666, -59.53333333],
+    "landlocked": false,
+    "area": 430,
+    "demonyms": {
+      "eng": { "f": "Barbadian", "m": "Barbadian" },
+      "fra": { "f": "Barbadienne", "m": "Barbadien" }
+    },
+    "flag": "🇧🇧",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/2m36v8STvbGAWd9c7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/547511"
+    },
+    "population": 287371,
+    "fifa": "BRB",
+    "car": { "signs": ["BDS"], "side": "left" },
+    "timezones": ["UTC-04:00"],
+    "continents": ["North America"],
+    "flags": {
+      "png": "https://flagcdn.com/w320/bb.png",
+      "svg": "https://flagcdn.com/bb.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/bb.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/bb.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": { "latlng": [13.1, -59.62] },
+    "postalCode": { "format": "BB#####", "regex": "^(?:BB)*(\\d{5})$" }
+  },
+  {
+    "name": {
+      "common": "Bahamas",
+      "official": "Commonwealth of the Bahamas",
+      "nativeName": {
+        "eng": {
+          "official": "Commonwealth of the Bahamas",
+          "common": "Bahamas"
+        }
+      }
+    },
+    "tld": [".bs"],
+    "cca2": "BS",
+    "ccn3": "044",
+    "cca3": "BHS",
+    "cioc": "BAH",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "BSD": { "name": "Bahamian dollar", "symbol": "$" },
+      "USD": { "name": "United States dollar", "symbol": "$" }
+    },
+    "idd": { "root": "+1", "suffixes": ["242"] },
+    "capital": ["Nassau"],
+    "altSpellings": ["BS", "Commonwealth of the Bahamas"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": { "eng": "English" },
+    "translations": {
+      "ara": { "official": "كومنولث جزر البهاما", "common": "باهاماس" },
+      "bre": { "official": "Kenglad ar Bahamas", "common": "Bahamas" },
+      "ces": { "official": "Bahamské společenství", "common": "Bahamy" },
+      "cym": { "official": "Cymanwlad y Bahamas", "common": "Bahamas" },
+      "deu": { "official": "Commonwealth der Bahamas", "common": "Bahamas" },
+      "est": { "official": "Bahama Ühendus", "common": "Bahama" },
+      "fin": { "official": "Bahaman liittovaltio", "common": "Bahamasaaret" },
+      "fra": { "official": "Commonwealth des Bahamas", "common": "Bahamas" },
+      "hrv": { "official": "Zajednica Bahama", "common": "Bahami" },
+      "hun": { "official": "Bahamai Közösség", "common": "Bahama-szigetek" },
+      "ita": { "official": "Commonwealth delle Bahamas", "common": "Bahamas" },
+      "jpn": { "official": "バハマ", "common": "バハマ" },
+      "kor": { "official": "바하마 연방", "common": "바하마" },
+      "nld": { "official": "Gemenebest van de Bahama's", "common": "Bahama’s" },
+      "per": { "official": "قلمرو همسود باهاما", "common": "باهاما" },
+      "pol": { "official": "Bahamy", "common": "Bahamy" },
+      "por": { "official": "Comunidade das Bahamas", "common": "Bahamas" },
+      "rus": {
+        "official": "Содружество Багамских Островов",
+        "common": "Багамские Острова"
+      },
+      "slk": { "official": "Bahamské spoločenstvo", "common": "Bahamy" },
+      "spa": { "official": "Commonwealth de las Bahamas", "common": "Bahamas" },
+      "swe": { "official": "Samväldet Bahamas", "common": "Bahamas" },
+      "tur": {
+        "official": "Bahama Milletler Topluluğu",
+        "common": "Bahamalar"
+      },
+      "urd": { "official": "دولتِ مشترکہ بہاماس", "common": "بہاماس" },
+      "zho": { "official": "巴哈马联邦", "common": "巴哈马" }
+    },
+    "latlng": [25.0343, 77.3963],
+    "landlocked": false,
+    "area": 13943,
+    "demonyms": {
+      "eng": { "f": "Bahamian", "m": "Bahamian" },
+      "fra": { "f": "Bahamienne", "m": "Bahamien" }
+    },
+    "flag": "🇧🇸",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/1YzRs1BZrG8p8pmVA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/547469"
+    },
+    "population": 393248,
+    "fifa": "BAH",
+    "car": { "signs": ["BS"], "side": "left" },
+    "timezones": ["UTC-05:00"],
+    "continents": ["North America"],
+    "flags": {
+      "png": "https://flagcdn.com/w320/bs.png",
+      "svg": "https://flagcdn.com/bs.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/bs.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/bs.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": { "latlng": [25.08, -77.35] }
+  },
+  {
+    "name": {
+      "common": "Antigua and Barbuda",
+      "official": "Antigua and Barbuda",
+      "nativeName": {
+        "eng": {
+          "official": "Antigua and Barbuda",
+          "common": "Antigua and Barbuda"
+        }
+      }
+    },
+    "tld": [".ag"],
+    "cca2": "AG",
+    "ccn3": "028",
+    "cca3": "ATG",
+    "cioc": "ANT",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "XCD": { "name": "Eastern Caribbean dollar", "symbol": "$" }
+    },
+    "idd": { "root": "+1", "suffixes": ["268"] },
+    "capital": ["Saint John's"],
+    "altSpellings": ["AG"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": { "eng": "English" },
+    "translations": {
+      "ara": { "official": "أنتيغوا وباربودا", "common": "أنتيغوا وباربودا" },
+      "bre": {
+        "official": "Antigua ha Barbuda",
+        "common": "Antigua ha Barbuda"
+      },
+      "ces": { "official": "Antigua a Barbuda", "common": "Antigua a Barbuda" },
+      "cym": {
+        "official": "Antigwa a Barbiwda",
+        "common": "Antigwa a Barbiwda"
+      },
+      "deu": {
+        "official": "Antigua und Barbuda",
+        "common": "Antigua und Barbuda"
+      },
+      "est": {
+        "official": "Antigua ja Barbuda",
+        "common": "Antigua ja Barbuda"
+      },
+      "fin": {
+        "official": "Antigua ja Barbuda",
+        "common": "Antigua ja Barbuda"
+      },
+      "fra": {
+        "official": "Antigua -et-Barbuda",
+        "common": "Antigua-et-Barbuda"
+      },
+      "hrv": { "official": "Antigva i Barbuda", "common": "Antigva i Barbuda" },
+      "hun": {
+        "official": "Antigua és Barbuda",
+        "common": "Antigua és Barbuda"
+      },
+      "ita": { "official": "Antigua e Barbuda", "common": "Antigua e Barbuda" },
+      "jpn": {
+        "official": "アンチグアバーブーダ",
+        "common": "アンティグア・バーブーダ"
+      },
+      "kor": { "official": "앤티가 바부다", "common": "앤티가 바부다" },
+      "nld": {
+        "official": "Antigua en Barbuda",
+        "common": "Antigua en Barbuda"
+      },
+      "per": { "official": "آنتیگوا و باربودا", "common": "آنتیگوا و باربودا" },
+      "pol": { "official": "Antigua i Barbuda", "common": "Antigua i Barbuda" },
+      "por": { "official": "Antigua e Barbuda", "common": "Antígua e Barbuda" },
+      "rus": { "official": "Антигуа и Барбуда", "common": "Антигуа и Барбуда" },
+      "slk": { "official": "Antigua a Barbuda", "common": "Antigua a Barbuda" },
+      "spa": { "official": "Antigua y Barbuda", "common": "Antigua y Barbuda" },
+      "swe": {
+        "official": "Antigua och Barbuda",
+        "common": "Antigua och Barbuda"
+      },
+      "tur": {
+        "official": "Antigua ve Barbuda",
+        "common": "Antigua ve Barbuda"
+      },
+      "urd": {
+        "official": "اینٹیگوا و باربوڈا",
+        "common": "اینٹیگوا و باربوڈا"
+      },
+      "zho": { "official": "安提瓜和巴布达", "common": "安提瓜和巴布达" }
+    },
+    "latlng": [17.05, -61.8],
+    "landlocked": false,
+    "area": 442,
+    "demonyms": {
+      "eng": { "f": "Antiguan, Barbudan", "m": "Antiguan, Barbudan" },
+      "fra": {
+        "f": "Antiguaise et barbudienne",
+        "m": "Antiguaise et barbudien"
+      }
+    },
+    "flag": "🇦🇬",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/fnye4wGJ1RzC9jpX9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/536900"
+    },
+    "population": 97928,
+    "fifa": "ATG",
+    "car": { "signs": ["AG"], "side": "left" },
+    "timezones": ["UTC-04:00"],
+    "continents": ["North America"],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ag.png",
+      "svg": "https://flagcdn.com/ag.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ag.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ag.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": { "latlng": [17.12, -61.85] }
+  }
+]

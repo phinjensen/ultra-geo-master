@@ -1,0 +1,11 @@
+Design backend
+  - phone per player support
+    - Generate game codes (cf. Kahoot)
+    - Fetches card from deck on turn
+  - Store games in-memory
+    - players
+    - game configuration
+      - continents
+      - included data
+      - mode (guess the country on the map, guess a thing about the country?)
+    - state
