@@ -1,0 +1,23 @@
+.map-grid {
+  height: calc(100% - var(--grid-gutter) * 3);
+}
+
+.maprow {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  gap: calc(var(--grid-gutter) / 2);
+  margin-bottom: calc(var(--grid-gutter) / 2);
+}
+
+.maprow.full {
+  height: calc(100%);
+}
+
+.maprow.half {
+  height: calc(50% - var(--grid-gutter) / 2);
+}
+
+.mapcol {
+  height: 100%;
+}

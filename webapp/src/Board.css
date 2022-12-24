@@ -1,0 +1,3 @@
+.board {
+  height: calc(100vh - var(--grid-gutter) * 2);
+}

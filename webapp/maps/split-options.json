@@ -1,0 +1,12 @@
+{
+  "area_units": "m2",
+  "distance_units": "meters",
+  "ellipsoid": "EPSG:7019",
+  "inputs": {
+    "FIELD": "SOVEREIGNT",
+    "FILE_TYPE": 1,
+    "INPUT": "/home/phin/programming/new-world/maps/north-america/north-america.shp",
+    "OUTPUT": "TEMPORARY_OUTPUT",
+    "PREFIX_FIELD": false
+  }
+}
