@@ -1,0 +1,11 @@
+## Source of Truth
+
+1. Maps are created in QGIS using the sovereign states map data from Natural Earth
+2. CSV data files (inc. country numbers) generated from QGIS
+3. Download JSON of all REST countries data
+3. Node.js script opens each generated CSV file and the REST Countries file and:
+  1. Matches names
+  2. Adds all necessary data from all sources
+  3. Prints out JSONified collection of data
+
+Backend reads in this JSON file.

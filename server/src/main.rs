@@ -1,17 +1,19 @@
-use std::collections::HashSet;
-
+use actix_cors::Cors;
 use actix_web::{get, post, web, App, HttpResponse, HttpServer, Responder};
 
-use ultra_geo_master::data::{AppData, AppState, Continent, Country, GameState};
+use ultra_geo_master::data::{AppData, AppState, Card, GameState, NewGame};
 
 #[post("/game")]
-async fn game_new(state: web::Data<AppState>, data: web::Data<AppData>) -> impl Responder {
+async fn game_new(
+    req_body: String,
+    state: web::Data<AppState>,
+    data: web::Data<AppData>,
+) -> impl Responder {
+    let settings: NewGame = serde_json::from_str(&req_body).unwrap();
     let mut games = state.games.lock().unwrap();
-    let game = GameState::new(
-        HashSet::from([Continent::NorthAmerica]),
-        &data.countries,
-        |c| games.contains_key(c),
-    );
+    let game = GameState::new(settings.continents, &data.countries, |c| {
+        games.contains_key(c)
+    });
     let response = HttpResponse::Ok().json(&game);
     games.insert(game.code.clone(), game);
     response
@@ -41,8 +43,11 @@ async fn game_draw_card(
     if let Some(game) = game {
         let code = game.draw_card();
         if let Some(code) = code {
-            let card = data.countries.get(&code).unwrap();
-            HttpResponse::NotFound().json(card)
+            let card = Card {
+                country: data.countries.get(&code).unwrap().clone(),
+                cards_left: game.cards_left(),
+            };
+            HttpResponse::Ok().json(card)
         } else {
             HttpResponse::NotFound().body("Empty deck!")
         }
@@ -56,7 +61,13 @@ async fn main() -> std::io::Result<()> {
     let state = web::Data::new(AppState::new());
     let data = web::Data::new(AppData::new());
     HttpServer::new(move || {
+        let cors = Cors::default()
+            .allow_any_origin()
+            .allow_any_method()
+            .allow_any_header()
+            .max_age(3600);
         App::new()
+            .wrap(cors)
             .app_data(state.clone())
             .app_data(data.clone())
             .service(game_new)

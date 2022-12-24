@@ -7,9 +7,21 @@ use std::{
 use rand::{seq::SliceRandom, thread_rng, Rng};
 use serde::{Deserialize, Serialize};
 
-#[derive(PartialEq, Eq, Hash, Serialize, Clone)]
+#[derive(Serialize, Clone)]
+pub enum GameMode {
+    AreaRank,
+    PopulationRank,
+}
+
+#[derive(PartialEq, Eq, Hash, Clone, Debug, Serialize, Deserialize)]
+#[serde(rename_all = "kebab-case")]
 pub enum Continent {
     NorthAmerica,
+    SouthAmerica,
+    Europe,
+    Africa,
+    Asia,
+    Oceania,
 }
 
 #[derive(Serialize, Clone)]
@@ -27,7 +39,7 @@ struct CountryName {
 #[derive(Serialize, Deserialize, Debug, Clone)]
 struct Currency {
     name: String,
-    symbol: String,
+    symbol: Option<String>,
 }
 
 #[derive(Serialize, Deserialize, Debug, Clone)]
@@ -42,6 +54,7 @@ pub struct ISO3166 {
 #[serde(rename_all = "camelCase")]
 pub struct Country {
     name: CountryName,
+    #[serde(default = "Vec::new")]
     tld: Vec<String>,
     un_member: bool,
     currencies: HashMap<String, Currency>,
@@ -50,14 +63,31 @@ pub struct Country {
     borders: Vec<String>,
     #[serde(flatten)]
     pub codes: ISO3166,
+    rank_pop: u16,
+    rank_area: u16,
+    continent: Continent,
+}
+
+#[derive(Serialize, Deserialize, Debug, Clone)]
+#[serde(rename_all = "camelCase")]
+pub struct Card {
+    #[serde(flatten)]
+    pub country: Country,
+    pub cards_left: usize,
 }
 
 #[derive(Serialize, Clone)]
 pub struct GameState {
     pub code: String,
     continents: HashSet<Continent>,
+    mode: GameMode,
     players: Vec<Player>,
     deck: Vec<String>,
+}
+
+#[derive(Deserialize)]
+pub struct NewGame {
+    pub continents: HashSet<Continent>,
 }
 
 const CODE_CHARS: [char; 36] = [
@@ -82,18 +112,28 @@ impl GameState {
             code = gen_code(&mut thread_rng());
         }
 
-        let mut deck: Vec<String> = countries.keys().cloned().collect();
+        let mut deck: Vec<String> = countries
+            .iter()
+            .filter(|(_, v)| continents.contains(&v.continent))
+            .map(|(k, _)| k)
+            .cloned()
+            .collect();
         deck.shuffle(&mut thread_rng());
         Self {
             code,
             continents,
             players: Vec::new(),
+            mode: GameMode::PopulationRank,
             deck,
         }
     }
 
     pub fn draw_card(&mut self) -> Option<String> {
         self.deck.pop()
+    }
+
+    pub fn cards_left(&self) -> usize {
+        self.deck.len()
     }
 }
 
@@ -111,28 +151,16 @@ impl AppState {
 
 pub struct AppData {
     pub countries: HashMap<String, Country>,
-    pub north_america: Vec<String>,
 }
 
 impl AppData {
     pub fn new() -> Self {
-        let mut countries: HashMap<String, Country> = HashMap::new();
-        for region in ["north-america"] {
-            countries.extend(
-                serde_json::from_str::<Vec<Country>>(
-                    &fs::read_to_string(format!("{}.json", region)).unwrap(),
-                )
+        let countries =
+            serde_json::from_str::<Vec<Country>>(&fs::read_to_string("countries.json").unwrap())
                 .unwrap()
                 .into_iter()
-                .map(|c| (c.codes.alpha_3.clone(), c)),
-            );
-        }
-        Self {
-            north_america: countries
-                .values()
-                .map(|c| c.codes.alpha_3.clone())
-                .collect(),
-            countries,
-        }
+                .map(|c| (c.codes.alpha_3.clone(), c))
+                .collect();
+        Self { countries }
     }
 }
