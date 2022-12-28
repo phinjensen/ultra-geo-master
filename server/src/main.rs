@@ -1,7 +1,22 @@
 use actix_cors::Cors;
 use actix_web::{get, post, web, App, HttpResponse, HttpServer, Responder};
 
+use serde::{Deserialize, Deserializer};
 use ultra_geo_master::data::{AppData, AppState, Card, GameState, NewGame};
+
+#[derive(Deserialize)]
+struct CodePath {
+    #[serde(deserialize_with = "uppercase")]
+    code: String,
+}
+
+fn uppercase<'de, D>(deserializer: D) -> Result<String, D::Error>
+where
+    D: Deserializer<'de>,
+{
+    let s: &str = Deserialize::deserialize(deserializer)?;
+    Ok(String::from(s).to_uppercase())
+}
 
 #[post("/game")]
 async fn game_new(
@@ -20,8 +35,8 @@ async fn game_new(
 }
 
 #[get("/game/{code}")]
-async fn game_status(path: web::Path<String>, state: web::Data<AppState>) -> impl Responder {
-    let code = path.into_inner();
+async fn game_status(path: web::Path<CodePath>, state: web::Data<AppState>) -> impl Responder {
+    let CodePath { code } = path.into_inner();
     let games = state.games.lock().unwrap();
     let game = games.get(&code);
     if let Some(game) = game {
@@ -33,11 +48,11 @@ async fn game_status(path: web::Path<String>, state: web::Data<AppState>) -> imp
 
 #[get("/game/{code}/card")]
 async fn game_draw_card(
-    path: web::Path<String>,
+    path: web::Path<CodePath>,
     state: web::Data<AppState>,
     data: web::Data<AppData>,
 ) -> impl Responder {
-    let code = path.into_inner();
+    let CodePath { code } = path.into_inner();
     let mut games = state.games.lock().unwrap();
     let game = games.get_mut(&code);
     if let Some(game) = game {
